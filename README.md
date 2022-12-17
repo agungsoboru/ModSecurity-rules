@@ -12,6 +12,8 @@
 
 install ruleset dari owasp dulu cek google
 
+https://www.linode.com/docs/guides/securing-apache2-with-modsecurity/
+
 lokasi rule owasp nya di...
 
 /usr/share/modsecurity-crs/rules/shell.conf
